@@ -32,4 +32,4 @@ CAREPLUS is a robust and scalable hospital management system designed to facilit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gaffr1715/careplus-hospital-management.git
+   git clone https://github.com/Nitulpatel15075/careplus-hospital-management.git
