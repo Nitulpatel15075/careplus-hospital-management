@@ -26,9 +26,8 @@ CAREPLUS is a robust and scalable hospital management system designed to facilit
 ### Prerequisites
 - **Liferay Portal** installed and set up
 - **MySQL Workbench 8** for database management
-- **PHP**
-- **SCSS** compiler (if needed)
-
+- **JDK Download** Required for developing on Liferary (base on you downloaded lifray version)
+- **Tomcat** Required for Liferary run
 ### Steps
 
 1. **Clone the repository:**
